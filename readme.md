@@ -45,6 +45,21 @@ L'application n'utilise plus de menu interactif mais des **arguments de ligne de
     python3 -m app_cli renommer "/chemin/du/dossier" --pre "DOC_"
     ```
 
+*   **Convertir un CSV en JSON** :
+    ```bash
+    python3 -m app_cli convertir --csv "donnees.csv" --json "donnees.json"
+    ```
+
+*   **Convertir une image** :
+    ```bash
+    python3 -m app_cli convertir --img "photo.png" --out "photo.jpg" --fmt "JPEG"
+    ```
+
+*   **Télécharger un fichier** :
+    ```bash
+    python3 -m app_cli telecharger "https://url-du-fichier.com/image.png" "./image.png"
+    ```
+
 *   **Mode détaillé (Verbose)** :
     Ajoutez `-v` pour voir chaque action effectuée par l'application :
     ```bash

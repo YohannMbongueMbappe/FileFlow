@@ -1,1 +1,9 @@
 [2026-04-12 21:17:29] ERROR - Erreur applicative : Le dossier '/mnt/c/chemin' n'existe pas.
+[2026-04-14 15:48:55] INFO - Démarrage du nettoyage du dossier : /mnt/c//CV et lettre de motivation
+[2026-04-14 15:48:55] INFO - Nettoyage du dossier terminé.
+[2026-04-14 15:50:30] INFO - Début du renommage dans : /mnt/c//CV et lettre de motivation
+[2026-04-14 15:50:30] INFO - Opération terminée : 0 fichiers renommés.
+[2026-04-14 15:52:44] INFO - Début du renommage dans : /mnt/c//licence pro//cours_python//test
+[2026-04-14 15:52:44] INFO - Opération terminée : 14 fichiers renommés.
+[2026-04-14 15:58:41] INFO - Requête de téléchargement : https://www.ilovepdf.com/fr/html-en-pdf
+[2026-04-14 15:58:42] INFO - Téléchargement réussi : /mnt/c/licence pro/cours_python/test/html-en-pdf
